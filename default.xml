@@ -6,7 +6,7 @@
            remote="origin" />
 
    <project path="RL700SComm" name="RL700SComm" />
-   <project path="RFIDPrinter" name="RFIDPrinter" />
+   <project path="RL700SControlApp" name="RL700SControlApp" />
 
  </manifest>
 
