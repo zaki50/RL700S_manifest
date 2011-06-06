@@ -1,0 +1,12 @@
+<manifest>
+  <remote  name="origin"
+           fetch="git@github.com:zaki50/"
+          review="review.zakky.org" />
+  <default revision="master"
+           remote="origin" />
+
+   <project path="RL700SComm" name="RL700SComm" />
+   <project path="RFIDPrinter" name="RFIDPrinter" />
+
+ </manifest>
+
